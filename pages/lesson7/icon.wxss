@@ -1,0 +1,8 @@
+/* pages/lesson7/icon.wxss */
+
+@import './iconfont.wxss';
+
+.icon-tiantianquan:after {
+    content: '\e8d1';
+    color: red;
+}

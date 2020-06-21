@@ -1,0 +1,6 @@
+<!--pages/lesson7/icon.wxml-->
+
+
+<view class="wrapper">
+    <icon class=" iconfont icon-tiantianquan" />
+</view>
