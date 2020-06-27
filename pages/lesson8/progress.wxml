@@ -1,0 +1,9 @@
+<view class="wrapper">
+    <progress show-info="{{true}}" percent="{{percent}}"  activeColor="red" active-mode="forwards"
+     duration="40" border-radius="10"
+     active></progress>
+
+    <button bindtap="reset">click</button>
+
+
+</view>
